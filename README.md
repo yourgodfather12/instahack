@@ -1,1 +1,1 @@
-python instagram_brute_force.py
+python3 instashell.py
